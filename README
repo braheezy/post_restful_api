@@ -1,7 +1,0 @@
-To run:
-    unzip file
-    pip install -r requirements.txt
-    launch.sh
-To test, make your own JSON files containing your expected values.
-
-I've never made a REST API, so this was satisfying to complete. Plus moar Pyhton skilz.
